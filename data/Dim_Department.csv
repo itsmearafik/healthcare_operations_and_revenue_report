@@ -1,0 +1,16 @@
+DepartmentID,DepartmentName
+1,Emergency
+2,Cardiology
+3,Oncology
+4,Pediatrics
+5,Orthopedics
+6,Neurology
+7,Radiology
+8,ICU
+9,Surgery
+10,Outpatient
+11,Dermatology
+12,ENT
+13,Urology
+14,Pharmacy
+15,Laboratory
